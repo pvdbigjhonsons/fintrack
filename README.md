@@ -139,7 +139,7 @@ O app estará em `http://localhost:5173`
 
 ---
 
-## 📋 Próximos Passos Sugeridos
+## 📋 Próximos Passos
 
 - [ ] Autenticação (JWT) para múltiplos usuários
 - [ ] Exportar relatórios em PDF/CSV
